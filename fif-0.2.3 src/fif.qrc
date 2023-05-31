@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>images/fif.bmp</file>
-        <file>images/logo_twitter_25px.png</file>
-        <file>images/sourceforge_logo_small.png</file>
-    </qresource>
-</RCC>
